@@ -9,19 +9,19 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Data Science Training for Librarians 
+subtitle: "#DST4L"
+email: jeek@dtu.dk
+name: Jeannette Ekstrøm
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  TODO Data Science Training for Librarians - DST4L description goes here. 
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+#baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dst4l.github.io" # the base hostname & protocol for your site
+cover: "/assets/DTUrunway.jpg"
+logo: "/assets/DST4Logo.jpg"
 
 # Build settings
 markdown: kramdown
